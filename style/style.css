@@ -38,7 +38,7 @@ a{
     text-decoration: none;
 }
 
-/*cabeçalho e menu*/ 
+/* cabeçalho e menu */ 
 header{
     height: 150px;
     max-width: 1050px;
@@ -87,9 +87,8 @@ a:visited{
 #image-cmc img{
     width: 100%;
 }
-/*---*/ 
 
-/*cfg article*/ 
+/* cfg article */ 
 article{
     color: var(--cor0);
     background-color: #1e2749;
@@ -104,9 +103,8 @@ article h1{
     margin-bottom: 80px;
     text-decoration: underline;
 }
-/*---*/ 
 
-/*article sobre*/
+/* article sobre */
 #sobre{
     background-color: var(--cor0);
     color: var(--cor1);
@@ -131,7 +129,6 @@ article h1{
     color: var(--cor2);
 }
 
-/*---*/
 
 /*article serviços*/ 
 .servico-single{
